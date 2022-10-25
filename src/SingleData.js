@@ -8,7 +8,7 @@ const SingleData = (props) => {
           className="bg-transparent border-white rounded-full border-2 px-6 py-2"
           onClick={() => props.handleModal(props.todo)}
         >
-          Go
+            Edit
         </button>
       </div>
     </>
